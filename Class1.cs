@@ -6,5 +6,6 @@ namespace projekt
 {
     class Class1
     {
+        int haha;
     }
 }
